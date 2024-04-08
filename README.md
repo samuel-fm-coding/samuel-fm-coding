@@ -15,8 +15,11 @@
 <div>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JS" width="80px">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:php.svg" alt="JS" width="140px" height=>
+  <img src="https://api.iconify.design/logos:php.svg" alt="PHP" width="140px">
   &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:css-3.svg" alt="CSS" width="80px;">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:html-5.svg" alt="HTML" width="80px;">
 </div>
   
   <div>
