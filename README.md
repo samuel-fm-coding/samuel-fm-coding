@@ -2,7 +2,7 @@
 
 <h1>Sobre mim</h1>
 <p>- 💻 Atualmente, sou estagiário na empresa Unimed Bauru como Assistente de Programador.</p>
-<p>- 📚 Estou cursando Ciência da Computação na Unisagrado Bauru.</p>
+<p>- 📚 Estou cursando <strong>Ciência da Computação</strong> na instituiçao <strong>Unisagrado Bauru</strong>.</p>
 <p>- 🎓 Sou formado como Técnico em Informática no Colégio Técnico Industrial de Bauru.</p>
 <p>- 📲 Você pode entrar em contato comigo pelo email: samuelfernandescor@gmail.com.</p>
 
