@@ -11,9 +11,13 @@
 
 <br><br>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://api.iconify.design/logos:php.svg" alt="php" width="80px" style="margin-left: 15px;">
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="php" width="80px" style="margin-left: 50px;">
+<div>
+  <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="PHP" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50">
 </div>
 
 <br><br>
