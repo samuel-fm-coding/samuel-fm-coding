@@ -20,8 +20,4 @@
   </p><br />
 </div>
 
-<style>
-  *{
-    font-family: Lucida Handwriting;
-  }
-</style>
+
