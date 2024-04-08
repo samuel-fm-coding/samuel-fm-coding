@@ -11,6 +11,12 @@
 
 <br><br>
 
+<div style="display: flex;">
+  <img src="https://api.iconify.design/logos:php.svg" alt="php" width="20px">
+</div>
+
+<br><br>
+
 <div>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-fm-coding&show_icons=true&locale=pt-br&theme=dark" alt="samuel-fm-coding" />
