@@ -12,8 +12,8 @@
 <br><br>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://api.iconify.design/logos:php.svg" alt="php" width="80px">
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="php" width="80px">
+  <img src="https://api.iconify.design/logos:php.svg" alt="php" width="80px" style="margin-left: 15px;">
+  <img src="https://api.iconify.design/logos:javascript.svg" alt="php" width="80px" style="margin-left: 15px;">
 </div>
 
 <br><br>
