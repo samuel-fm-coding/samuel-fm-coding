@@ -15,7 +15,7 @@
 <div>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JS" width="80px">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:php.svg" alt="JS" width="80px">
+  <img src="https://api.iconify.design/logos:php.svg" alt="JS" width="140px" height=>
   &nbsp;&nbsp;&nbsp;
 </div>
   
