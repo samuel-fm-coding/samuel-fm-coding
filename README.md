@@ -11,9 +11,9 @@
 
 <br><br>
 
-<div style="display: flex;">
-  <img src="https://api.iconify.design/logos:php.svg" alt="php" width="100px">
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="php" width="100px">
+<div style="display: flex; padding: 10px;">
+  <img src="https://api.iconify.design/logos:php.svg" alt="php" width="80px">
+  <img src="https://api.iconify.design/logos:javascript.svg" alt="php" width="80px">
 </div>
 
 <br><br>
