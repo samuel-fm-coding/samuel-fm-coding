@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Samuel Fernandes Monteiro!
+<h2>👋 Olá, eu sou Samuel Fernandes Monteiro!</h2>
 
-## Sobre mim
+<h1>Sobre mim</h1>
 - 💻 Atualmente, sou estagiário na empresa Unimed Bauru como Assistente de Programador.
 - 📚 Estou cursando Ciência da Computação na Unisagrado Bauru.
 - 🎓 Sou formado como Técnico em Informática no Colégio Técnico Industrial de Bauru.
