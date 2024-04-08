@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
 <h2>👋 Olá, eu sou Samuel Fernandes Monteiro!</h2>
 
 
@@ -12,12 +15,13 @@
 <br><br>
 
 <div>
-  <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="PHP" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50">
+  <i class="fab fa-php"></i> <!-- PHP -->
+  <i class="fab fa-js"></i> <!-- JavaScript -->
+  <i class="fab fa-html5"></i> <!-- HTML -->
+  <i class="fab fa-css3-alt"></i> <!-- CSS -->
+  <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
+  <i class="fas fa-database"></i> <!-- SQL -->
+
 </div>
 
 <br><br>
