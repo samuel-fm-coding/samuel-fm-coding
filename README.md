@@ -12,17 +12,17 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JS" width="80px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:php.svg" alt="PHP" width="140px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:css-3.svg" alt="CSS" width="80px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:html-5.svg" alt="HTML" width="80px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:bootstrap.svg" alt="Bootstrap" width="80px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="PostgreSQL" width="80px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:mysql.svg" alt="MySQL" width="80px;">
 </div>
 
