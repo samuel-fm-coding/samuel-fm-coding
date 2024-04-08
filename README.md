@@ -9,3 +9,11 @@
 ## Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-fernandes-51792b261)
 
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-fm-coding&show_icons=true&locale=pt-br" alt="samuel-fm-coding" />
+  </p>
+  <p>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact" alt="samuel-fm-coding" />
+  </p><br />
+</div>
