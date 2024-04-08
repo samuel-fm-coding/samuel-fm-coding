@@ -16,6 +16,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-fm-coding&show_icons=true&locale=pt-br" alt="samuel-fm-coding" />
   </p>
   <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact" alt="samuel-fm-coding" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="samuel-fm-coding" />
   </p><br />
 </div>
