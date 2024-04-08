@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ícones de Linguagens</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
-  
+
   <h2>👋 Olá, eu sou Samuel Fernandes Monteiro!</h2>
   
   
@@ -21,15 +12,32 @@
   
   <br><br>
   
-  <div>
-    <i class="fab fa-php"></i> <!-- PHP -->
-    <i class="fab fa-js"></i> <!-- JavaScript -->
-    <i class="fab fa-html5"></i> <!-- HTML -->
-    <i class="fab fa-css3-alt"></i> <!-- CSS -->
-    <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
-    <i class="fas fa-database"></i> <!-- SQL -->
-  
-  </div>
+<ul>
+        <li>
+            <img src="https://cdn.jsdelivr.net/npm/devicon/php/php-original.svg" alt="PHP" width="50" height="50">
+            PHP
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/npm/devicon/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+            JavaScript
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/npm/devicon/html5/html5-original.svg" alt="HTML5" width="50" height="50">
+            HTML5
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/npm/devicon/css3/css3-original.svg" alt="CSS3" width="50" height="50">
+            CSS3
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/npm/devicon/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50">
+            Bootstrap
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/npm/devicon/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+            MySQL
+        </li>
+    </ul>
   
   <br><br>
   
@@ -42,5 +50,3 @@
     </p><br />
   </div>
 
-</body>
-</html>
