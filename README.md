@@ -10,7 +10,7 @@
 
 <br><br>
 
-<div>
+<div style="display: flex; justify-content: center;">
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JS" width="80px">
   &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:php.svg" alt="PHP" width="140px">
@@ -26,13 +26,13 @@
   <img src="https://api.iconify.design/logos:mysql.svg" alt="MySQL" width="80px;">
 </div>
 
-  <br><br>
-  <div>
-    <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-fm-coding&show_icons=true&locale=pt-br&theme=dark" alt="samuel-fm-coding" />
-    </p>
-    <p>
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="samuel-fm-coding" />
-    </p><br />
-  </div>
+<br><br>
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-fm-coding&show_icons=true&locale=pt-br&theme=dark" alt="samuel-fm-coding" />
+  </p>
+  <p>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="samuel-fm-coding" />
+  </p><br />
+</div>
 
