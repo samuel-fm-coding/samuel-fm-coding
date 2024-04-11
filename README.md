@@ -10,7 +10,7 @@
 
 <br><br>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JS" width="80px">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:php.svg" alt="PHP" width="140px">
