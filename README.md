@@ -6,7 +6,7 @@
 <p>📲 Você pode entrar em contato comigo pelo email: samuelfernandescor@gmail.com.</p>
 
 ## Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-fernandes-51792b261)
+💼 [LinkedIn](https://www.linkedin.com/in/samuel-fernandes-51792b261)
 
 <br><br>
 
@@ -27,12 +27,13 @@
 </div>
 
 <br><br>
+
 <div align="center">
-  <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-fm-coding&show_icons=true&locale=pt-br&theme=dark" alt="samuel-fm-coding" />
-  </p>
 </div>
+
 <br />
+
 <div align="center">
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="samuel-fm-coding" />
 </div>
