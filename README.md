@@ -31,14 +31,8 @@
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-fm-coding&show_icons=true&locale=pt-br&theme=dark" alt="samuel-fm-coding" />
   </p>
-  <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="samuel-fm-coding" />
-  </p>
-  <br /><br />
 </div>
-
-
-
+<br />
 <div align="center">
-  <img align="center" src="" data-canonical-src="https://komarev.com/ghpvc/?username=samuel-fm-coding&amp;style=for-the-badge&amp;color=2F81F7" style="max-width: 100%;">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-fm-coding&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="samuel-fm-coding" />
 </div>
