@@ -1,7 +1,7 @@
 <h2>👋 Olá, eu sou Samuel Fernandes Monteiro!</h2>
 
-<p>💻 Assistente de Programador na empresa Unimed Bauru.</p>
-<p>📚 Cursando o 4º semestre de <strong>Ciência da Computação</strong> na instituiçao <strong>Unisagrado Bauru</strong>.</p>
+<p>💻 Desenvolvedor WEB na empresa Unimed Bauru.</p>
+<p>📚 Cursando o 5º semestre de <strong>Ciência da Computação</strong> na instituiçao <strong>UNISAGRADO Bauru</strong>.</p>
 <p>🎓 Formado como <strong>Técnico em Informática</strong> pelo Colégio Técnico Industrial de Bauru - <strong>CTI</strong>.</p>
 
 ## Conecte-se comigo
