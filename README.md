@@ -1,4 +1,4 @@
-<h2>👋 Olá, eu sou Samuel Fernandes Monteiro!</h2>
+<h2>Samuel Fernandes Monteiro</h2>
 
 <p>💻 Desenvolvedor WEB na empresa Unimed Bauru.</p>
 <p>📚 Cursando o 5º semestre de <strong>Ciência da Computação</strong> na instituiçao <strong>UNISAGRADO Bauru</strong>.</p>
