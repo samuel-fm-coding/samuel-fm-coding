@@ -2,10 +2,8 @@
 <p>📚 Cursando o 6º semestre de <strong>Ciência da Computação</strong> na instituiçao <strong>UNISAGRADO Bauru</strong>.</p>
 <p>🎓 Formado como <strong>Técnico em Informática</strong> pelo Colégio Técnico Industrial de Bauru - <strong>CTI</strong>.</p>
 
-## Conecte-se comigo
-💼 [LinkedIn](https://www.linkedin.com/in/samuel-fernandes-51792b261)
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JS" width="80px">
